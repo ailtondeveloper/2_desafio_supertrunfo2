@@ -5,3 +5,5 @@ Atributos usados:
 Densidade demográfica, População, Área, PIB, Número de pontos turísticos (essa informação foi utilizado um numero ficticio).
 Conclusão:
 O código compara atributos de dois países usando variáveis para armazenar os dados e um menu para o usuário escolher o que comparar. Elaborado com switch para decidir qual atributo mostrar e if-else para determinar qual país tem o maior valor no atributo selecionado. É um exemplo simples de como usar variáveis, entrada de dados e estruturas de controle em C.
+
+Este projeto é para fins educacionais e a licença é livre.
